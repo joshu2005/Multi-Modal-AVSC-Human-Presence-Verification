@@ -1,0 +1,12 @@
+streamlit
+opencv-python
+numpy
+torch
+sounddevice
+torchaudio
+mediapipe
+matplotlib
+scipy
+imutils
+pygame
+dlib
